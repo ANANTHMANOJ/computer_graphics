@@ -8,8 +8,8 @@ You need to know the basics of Computer Designing, OpenGL library and C++ langua
 * Install the C++ compiler. Visual Studio is better. But other compilers also works fine.
 * Install OpenGL libraries.[link]()
 * Register the library to the compiler. Steps:
- **Install visual studio 2008 or above in Windows Xp or above:
- **After installation, add following OpenGL files:
+   Install visual studio 2008 or above in Windows Xp or above:
+   After installation, add following OpenGL files:
 
    	dll folder: glut32.dll & others ->C:\Windows\System32  (paste all .dll files)
    
@@ -19,9 +19,9 @@ You need to know the basics of Computer Designing, OpenGL library and C++ langua
 
 or
 
-C:\program files\microsoft visual studio 8\vc\include  -------> inside this path create gl or GL folder.
+      C:\program files\microsoft visual studio 8\vc\include  -------> inside this path create gl or GL folder.
 
-C:\program files\microsoft visual studio 8\vc\include\gl ------> inside this folder put all the files given in the glut folder.
+      C:\program files\microsoft visual studio 8\vc\include\gl ------> inside this folder put all the files given in the glut folder.
  
  That's it, now run the program on your compiler 
 
